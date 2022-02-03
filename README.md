@@ -5,4 +5,4 @@ The function should have two layers of encryption. One should encrypt on random.
 
 The second layer of encryption should be hard coded at your choice. 
 
-Entering reset into the input window instead of a epithet the word encrypt or decrypt should reset the random  layer encryption. The commands decrypt or encrypt should ask for a string to perform the command on and return the encrypted or decrypted string. 
+Entering reset into the input window instead of the word encrypt or decrypt should reset the random  layer encryption. The commands decrypt or encrypt should ask for a string to perform the command on and return the encrypted or decrypted string. 
